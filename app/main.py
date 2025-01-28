@@ -3,7 +3,7 @@ import pickle
 import pandas as pd
 from pydantic import BaseModel
 
-# Initialize FastAPI app
+
 app = FastAPI()
 
 # Load the trained model
